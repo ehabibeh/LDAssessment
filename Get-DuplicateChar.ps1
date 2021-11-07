@@ -1,4 +1,4 @@
-﻿## Elias Habibeh
+## Elias Habibeh
 ## LoanDepot - PowerShell Assessment
 ## 11/5/2021
 
